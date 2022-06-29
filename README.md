@@ -1,8 +1,16 @@
 - 👋 Hi, I’m @priyaanshMalik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me at priyaanshmalik@outlook.com
+- I am an undergraduate student in Computer Science and Engineering
+- I am also doing a bachelors degree ponline program from IIT Madras in Programming and Data Science
+- I’m interested in learning about data science and application development
+
+
+- reach me at priyaanshmalik@outlook.com
+
+Cheers!!!
+
+
+
+
 
 <!---
 priyaanshMalik/priyaanshMalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
